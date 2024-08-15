@@ -83,6 +83,20 @@
       "hp": 60,
       "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
       "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/12.png"
+    },
+    {
+      "name": "Deoxys",
+      "hp": 100,
+      "front": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/10002.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10002.png",
+      "id": 13
+    },
+    {
+      "name": "Deoxys",
+      "hp": 100,
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10002.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10002.png",
+      "id": 14
     }
   ]
 }
